@@ -23,8 +23,11 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+This project is using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Goal
+- Understanding common framework workflow
+- Understanding feature usage : CRUD,CQRS,Repository Pattern
 
 ## Installation
 
